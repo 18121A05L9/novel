@@ -1,0 +1,1 @@
+outline is a basic file that can be tracked and deleted further if needed.
